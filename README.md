@@ -1,16 +1,1 @@
- #include<studio.h>
- int main()
- { 
-  int average,sum=0; 
-  int i, marks[10];
- for (i=1; i<=10; i++)
- { 
-   printf("enter marks of students"); 
-   scanf("%d",&marks[i]); 
- }
- for(i=0; i<=10; i++)
- sum += marks[i]; 
- average = sum/10;
- printf("average marks of students is %d\n ",average); 
- return 0;
- }
+Array- A variable can take one value at a one time if We are going to calculate the average of marks Of 100 student then we need to take 100 Variable which only enhance the size of code That's why to make simplest code one special Variable comes and this is array
