@@ -1,1 +1,1 @@
-Array- A variable can take one value at a one time if We are going to calculate the average of marks Of 100 student then we need to take 100 Variable which only enhance the size of code That's why to make simplest code one special Variable comes and this is array
+Array- A variable can take one value at a one time if We are going to calculate the average of marks Of 100 student then we need to take 100 Variable which only enhance the size of code That's why to make simplest code one special Variable comes and this is an array
